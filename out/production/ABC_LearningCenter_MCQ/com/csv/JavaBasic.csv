@@ -1,0 +1,10 @@
+Q1 The default value of a static integer variable of a class in Java is:,A.0,B.1,C.Garbage value,D.Null,A
+Q2 Which statement is not true in java language?,A.public member of a class can be accessed in all the packages.,B. A private member of a class cannot be accessed by the methods of the same class.,C. A private member of a class cannot be accessed from its derived class.,D.A protected member of a class can be accessed from its derived class.,B
+Q3 Which of the following is not a Java features? ,A.Dynamic ,B.Object-oriented,C.Use of pointers,D.Architecture Neutral,C
+Q4 Which of these class is used to create an object whose character sequence is mutable? ,A.String(),B.StringBuffer(),C.Both of the mentioned,D.None of the mentioned,B
+Q5 The \u0021 article referred to as a,A.Line feed,B.Hexadecimal,C.Octal escape,D.Unicode escape sequence,D
+Q6 _______ is used to find and fix bugs in the Java programs. ,A.JDB,B.JDK,C.JVM,D.JRE,A
+Q7 Which of the following tool is used to generate API documentation in HTML format from doc comments in source code?,A.javah command,B. javap tool,C.Javadoc tool,D.Javaw command,C
+Q8 Which of the following is true?,A.A finally block is executed only after the catch block is executed.,B.A finally block is executed whether an exception is thrown or not. ,C.A finally block is executed before the catch block but after the try block.,D.None of the above.,B
+Q9 Which of the following variable declaration would NOT compile in a java program?,A.int var,B.int var1,C.int var_1,D.int 1_var,D
+Q10 Which of the following modifiers can be used for a variable so that it can be accessed by any thread or a part of a program,A.global,B.transient,C.default,D.volatile,D
